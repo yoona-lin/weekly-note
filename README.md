@@ -6,12 +6,10 @@
 ### 对应章节小记
 
 - 前面的忘了记
-  - 后面补上
+  - 后面回头看再补上
 
 - 026.精读加密媒体扩展（Encrypted Media Extensions，EME）
-  - DRM：数字版权管理（Digital Rights Management）内容数字版权加密保护技术; EME：加密媒体扩展（Encrypted Media Extensions）; MSE：媒体源扩展（Media Source Extensions）; 媒体加密等内容，了解了一下
-
-CDM：内容解密模块（Content Decryption Module）
+  - DRM：数字版权管理（Digital Rights Management）内容数字版权加密保护技术; EME：加密媒体扩展（Encrypted Media Extensions）; MSE：媒体源扩展（Media Source Extensions）;内容解密模块（Content Decryption Module）； 媒体加密等内容，了解了一下CDM：
 
 - 027.精读《css-in-js 杀鸡用牛刀》
   - 有是一周的对 **css-in-js** 的讨论，了解了一下
@@ -19,6 +17,23 @@ CDM：内容解密模块（Content Decryption Module）
 - **028.精读《2017前端性能优化备忘录》**
   - 很详细地总结了前端各方面的优化方法，非常值得了解与学习
   
+- 029.精读《JS 中的内存管理》
+  - 主要说了js的内存问题，不懂，但里面的 常见的内存泄露案例 值得多看多了解
+
+- 030.精读《Javascript 事件循环与异步》
+  - 主要说了 Event Loop - 事件循环， 不懂
+
+- 031.精读《我不再使用高阶组件》
+  - 说了高阶组件使用时出现的情况，但我连组件都还很少使用，所以还是不懂
+
+- 032.精读《React Router4.0 进阶概念》
+  - 文钟说到 React Router4.0 对大多数人真的很棒！但没用过，不清楚这些
+
+- 033.精读《30行js代码创建神经网络》
+  - 本文介绍了使用Synaptic.js 创建简单的神经网络，解决异或运算的问题过程，也对反向传播的过程进行了简单的解释。但完全看不懂，一点都没有看懂。。。
+
+- 034.精读《React 代码整洁之道》
+  - 文钟讲了如何编写整洁的代码的相关方法，并举例react的一些例子进行解说，能懂一些
+
 - 
   - 
-
