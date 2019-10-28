@@ -78,5 +78,18 @@
 - 109.精读《Vue3.0 Function API》
   > Vue 的相关技术文档得复习复习了，现在都出来这么多新模式了
   
-- 111.精读《前端未来展望》
+- **111.精读《前端未来展望》**
   > 再一次看这篇精读了，提高对前端的理解范围，给自己一点信心，继续坚持
+  
+- 112.精读《源码学习》
+  > 源码多看，提高对代码的思维与见解
+  
+- 121.精读《前端与 BI》
+  > 商业智能（Business Intelligence）简称 BI，其中可视化的知识，多了解
+  
+  > [Web工程师必备的43款可视化工具](https://www.csdn.net/article/2013-01-15/2813666-Web-Tools)
+  
+  > [echatjs](https://www.w3cschool.cn/echarts_tutorial/)就是基于Canvas（这是html5的新技术，应该好一些） ；   [D3.js](https://github.com/xswei/d3js_doc)就是基于SVG（过时了？）
+  
+- 
+  > 
